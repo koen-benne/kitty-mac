@@ -1,1 +1,1 @@
-# kitty-mac
+# My kitty config on macos
